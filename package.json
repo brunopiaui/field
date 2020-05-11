@@ -1,6 +1,6 @@
 {
   "name": "@bpiaui/field",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "description": "",
   "private": false,
   "main": "dist/br-field.ssr.js",
